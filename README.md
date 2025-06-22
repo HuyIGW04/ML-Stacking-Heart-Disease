@@ -2,7 +2,7 @@
 ## _Prediction of the risk of heart disease_
 
 Nowadays, the number of heart-related diseases is steadily increasing regardless of gender or age. According to data from the World Health Organization (WHO), heart disease is the leading cause of death worldwide. Ischemic heart disease accounts for 16% and stroke for 11% of total global deaths. Since 2000, deaths from heart disease have seen the greatest increase, rising by over 2 million to 8.9 million in 2019. Common heart conditions include blood vessel diseases such as coronary artery disease, heart rhythm problems (arrhythmias), congenital heart defects, and various other cardiovascular disorders.  
-![Predictions vs Actual Prices](./img/output.png)
+![Predictions vs Actual Prices](./img/output.png)  
 Therefore, early prediction of cardiovascular diseases is considered one of the critical tasks in clinical data analysis. In this project, we apply basic machine learning techniques to predict whether a person is at risk of heart disease based on the Cleveland Heart Disease dataset from the UCI Machine Learning Repository. The data was preprocessed by filling missing values (NaN) and applying normalization before training.
 
 ## Feature  
